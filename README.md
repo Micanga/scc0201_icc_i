@@ -4,7 +4,7 @@ The exercises are ordered by difficulty level, from the simplest to the most com
 
 Exercises 53 to 73 are commented in Portuguese due to the evaluative character.
 
-Useful and general methods are in "utils/" directory.
+Useful and general methods are in "utils.c" file.
 
 # General Projects Info
 
