@@ -1,7 +1,8 @@
 # Image Processing
 
-This project implementst the some techniques of image processing.
+This project implements some techniques for image processing.
 
-By reading of processing type and the image file the program returns filtered image.
+By reading of processing type and the image file, the program returns the filtered image.
 
-The code is commented in Portuguese due to the evaluative character of the project.
+Commentaries are in Portuguese due to the evaluative character of the project.
+
