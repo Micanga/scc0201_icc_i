@@ -1,2 +1,15 @@
-# scc0201_icc_i
-This repository refers to the USP Introduction to Computer Science I module (code: SSC0221). In this module, 71 exercises were proposed and solved to present basic programming concepts and mathematical logic.
+# 1st Semester - SCC0201: Exercices Info
+
+The exercises are ordered by difficulty level, from the simplest to the most complex problems.
+
+Exercises 53 to 73 are commented in Portuguese due to the evaluative character.
+
+Useful and general methods are in "utils/" directory.
+
+# General Projects Info
+
+All proposed projects are evaluative and attempt to address the basic concepts of computing for a real scenario.
+
+The projects are commented in Portuguese.
+
+
