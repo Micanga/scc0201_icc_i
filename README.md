@@ -1,4 +1,4 @@
-# 1st Semester - SCC0201: Exercices Info
+# 1st Semester - SCC0221: Exercices Info
 
 The exercises are ordered by difficulty level, from the simplest to the most complex problems.
 
